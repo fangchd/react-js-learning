@@ -226,3 +226,9 @@ JavaScript的那些书
 
 http://www.douban.com/doulist/37622307/
 书单-编程-前端
+
+http://undefinedblog.com/facebook-flux/
+浅析 Facebook Flux 架构
+
+
+
