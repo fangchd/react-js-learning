@@ -1,0 +1,18 @@
+[最牛逼的 HTML 和 CSS 代码的背后 #105](https://github.com/lifesinger/lifesinger.github.com/issues/105)  
+[Tiny Higher-Order Component for validation in React](https://github.com/deepsweet/valya)  
+[Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)  
+[REACT TIPS AND BEST PRACTICES](http://aeflash.com/2015-02/react-tips-and-best-practices.html)  
+[React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)  
+[推荐 10 个 ReactJS 入门资源](http://www.oschina.net/translate/10-resources-to-get-you-started-with-reactjs)  
+[Using Test Driven Development with React.js to Add Multi-Select to the Drag and Drop Component](https://reactjsnews.com/using-tdd-with-reactjs/)  
+[Modals in React](http://reactjsnews.com/modals-in-react/)  
+[A browserify transform to load CSS Modules](https://github.com/css-modules/css-modulesify)  
+[Documentation about css-modules](https://github.com/css-modules/css-modules)  
+[The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284)
+[如何科学的组织React组件样式](http://segmentfault.com/a/1190000003032506)  
+[React中对于css的使用](http://react-china.org/t/react-css/1844) 
+[为什么我弃用Angular，转向React](http://web.jobbole.com/82586/?location=35)  
+[简明解释算法中的大O符号](http://blog.jobbole.com/55184/)  
+[browserify beefy 教程](http://www.jianshu.com/p/a709d54bc8e0)  
+
+
