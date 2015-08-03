@@ -27,7 +27,7 @@
 
 [segmentfault reactjs](http://segmentfault.com/t/reactjs/blogs?page=1)  
 [轻松搭建 ECMAScript 6 开发环境 [For React]](http://segmentfault.com/a/1190000003042641)  
-[没人告诉你关于z-index的一些事](http://web.jobbole.com/82884/) 
+[没人告诉你关于z-index的一些事](http://web.jobbole.com/82884/)  
 [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)  
 [为什么我弃用Angular，转向React](http://web.jobbole.com/82586/?location=35)  
 
