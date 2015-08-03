@@ -49,7 +49,7 @@
 [React.js大型复杂应用实战：Codecademy](http://www.vccoo.com/v/c8077f)  
 [Demystifying React Components State](http://www.sitepoint.com/demystifying-react-components-state/)  
 [【精】华为内部的Web安全原则](http://mp.weixin.qq.com/s?__biz=MzAxMjAwMjUxNQ==&mid=207881605&idx=1&sn=2fce890233828adaa90364e3c8633f4a&scene=1&key=c468684b929d2be2e72bdeea4c902b28ce440293159aa6e868c80f0ada82f7b7bee8ee2381d94cf812e107e0c39ff9e4&ascene=0&uin=Mjc5MDYwMDk0MA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020012&pass_ticket=9IxyMgqyWjsfSKw4iuGCYskt5Jd1skh5b23Jv4vjt3udF9Tx2vAI0uc2Hmk7sHqW)  
-[]()  
+[Awesome React](https://github.com/enaqx/awesome-react)  
 []()  
 []()  
 []()  
