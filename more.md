@@ -31,11 +31,13 @@
 [Facebook's React vs AngularJS: A Closer Look](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)  
 [为什么我弃用Angular，转向React](http://web.jobbole.com/82586/?location=35)  
 
+!!!!!
+[Awesome React](https://github.com/enaqx/awesome-react/blob/master/README.md#flux)  
+[Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)  
+[Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)  
+[My experiences building a FLUX application](http://christianalfoni.github.io/javascript/2014/10/27/my-experiences-building-a-flux-application.html)  
+[The Evolution of Flux Frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)  
 []()  
 []()  
 []()  
-[]()  
-[]()  
-[]()  
-
 
