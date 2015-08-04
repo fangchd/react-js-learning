@@ -90,6 +90,12 @@ Starter Gulp + Browserify project with examples of how to accomplish some common
 [grunt-contrib-jshint v0.10.3 Build Status: Linux](https://github.com/jut-io/grunt-contrib-jshint-jsx)  
 [DjebbZ / jshint-jsx-with-gulp-react-tools](https://gist.github.com/DjebbZ/ee6c50c7a155c5fd6cd4)  
 [nicolashery / gulpfile-react-jshint.js](https://gist.github.com/nicolashery/8e6baed6d3fd6bcde8d5) !!!  
+https://raw.githubusercontent.com/jscs-dev/node-jscs/master/presets/google.json  
+http://jscs.info/overview.html#options  
+https://github.com/TheSavior/SublimeJSCSFormatter  
+https://github.com/jscs-dev/node-jscs/  
+https://github.com/jscs-dev/gulp-jscs  
+[Auto-formatting JavaScript Code Style](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)  
 ### grunt
 [GULP-STYLE STREAM PIPING IN GRUNT, OR ANYWHERE ELSE](http://blog.evanyou.me/2013/12/29/gulp-piping/)  
 [【grunt第一弹】30分钟学会使用grunt打包前端代码](http://www.cnblogs.com/yexiaochai/p/3594561.html)  
