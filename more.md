@@ -33,7 +33,7 @@
 [ Facebook's React vs AngularJS: A Closer Look ](http://www.quora.com/Pete-Hunt/Posts/Facebooks-React-vs-AngularJS-A-Closer-Look)  
 [ 【精】华为内部的Web安全原则 ](http://mp.weixin.qq.com/s?__biz=MzAxMjAwMjUxNQ==&mid=207881605&idx=1&sn=2fce890233828adaa90364e3c8633f4a&scene=1&key=c468684b929d2be2e72bdeea4c902b28ce440293159aa6e868c80f0ada82f7b7bee8ee2381d94cf812e107e0c39ff9e4&ascene=0&uin=Mjc5MDYwMDk0MA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020012&pass_ticket=9IxyMgqyWjsfSKw4iuGCYskt5Jd1skh5b23Jv4vjt3udF9Tx2vAI0uc2Hmk7sHqW)  
 [ 理想的应用框架 ](http://www.cnblogs.com/sskyy/p/4592353.html) !!  
-[  ]()  
+[ speakerdeck Search results for React ](https://speakerdeck.com/search?q=React&utf8=%E2%9C%93)  
 [  ]()  
 [  ]()  
 [  ]()  
