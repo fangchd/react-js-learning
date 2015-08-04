@@ -1,1 +1,1 @@
-# react-js-study
+# react-js-learning
