@@ -96,7 +96,6 @@ Starter Gulp + Browserify project with examples of how to accomplish some common
 [grunt-contrib-jshint v0.10.3 Build Status: Linux](https://github.com/jut-io/grunt-contrib-jshint-jsx)  
 [http://www.gruntjs.net/](http://www.gruntjs.net/)  
 [http://gruntjs.com/configuring-tasks](http://gruntjs.com/configuring-tasks)  
-[How to run two grunt watch tasks simultaneously](http://stackoverflow.com/questions/17585385/how-to-run-two-grunt-watch-tasks-simultaneously)  
-grunt-concurrent grunt-focus  
+[How to run two grunt watch tasks simultaneously](http://stackoverflow.com/questions/17585385/how-to-run-two-grunt-watch-tasks-simultaneously)  grunt-concurrent grunt-focus  
 [How to configure sourceMaps for LESS using Grunt?](http://stackoverflow.com/questions/21743160/how-to-configure-sourcemaps-for-less-using-grunt)  
 [随笔分类 - grunt构建工具详解](http://www.cnblogs.com/chaojidan/category/652416.html)  
