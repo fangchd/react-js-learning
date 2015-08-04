@@ -1,4 +1,4 @@
-[最牛逼的 HTML 和 CSS 代码的背后 #105](https://github.com/lifesinger/lifesinger.github.com/issues/105)  
+### css modules
 [A working demo of CSS Modules, using css-modulesify.](https://github.com/css-modules/browserify-demo)  
 [A browserify transform to load CSS Modules](https://github.com/css-modules/css-modulesify)  
 [CSS Modules](https://github.com/css-modules/css-modules)  
@@ -7,6 +7,9 @@
 [React中对于css的使用](http://react-china.org/t/react-css/1844)  
 [## CSS 的黑科技](http://segmentfault.com/a/1190000003023537)  
 [编写更好的CSS代码](http://web.jobbole.com/55067/)  
+
+
+[最牛逼的 HTML 和 CSS 代码的背后 #105](https://github.com/lifesinger/lifesinger.github.com/issues/105)  
 [编码规范 by @mdo](http://zoomzhao.github.io/code-guide/#css-nesting)  
 [没人告诉你关于z-index的一些事](http://web.jobbole.com/82884/)  
 []()  
