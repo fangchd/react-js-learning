@@ -70,6 +70,8 @@ mocha:
 [ What are the requirements for a script passed to the compilers option? #1458 ](https://github.com/mochajs/mocha/issues/1458)  
 [ gulp-mocha how to pass the compilers flag? ](http://stackoverflow.com/questions/28858957/gulp-mocha-how-to-pass-the-compilers-flag) !!  
 [ What are the requirements for a script passed to the compilers option? #1458 ](https://github.com/mochajs/mocha/issues/1458) !!!!  
+[ React testing with Mocha, Chai, Sinon and Gulp ](http://willcodefor.beer/react-testing-with-mocha-chai-sinon-and-gulp/)  
+[ how to pass compiler options to mocha ](http://stackoverflow.com/questions/20049790/how-to-pass-compiler-options-to-mocha)  
 
 node.js:
 ==========================================================================================
