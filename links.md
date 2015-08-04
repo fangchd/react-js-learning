@@ -9,8 +9,6 @@ angular
 [ http://ng2048.github.io/ ](http://ng2048.github.io/)  
 [ https://github.com/fullstackio/ng2048 ](https://github.com/fullstackio/ng2048)  
 [ http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html ](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)  
-[ http://www.zhihu.com/question/23596013 ](http://www.zhihu.com/question/23596013)  
-研究前先读一下angular官网的文档，对照代码读。首先了解compile，如何将template编译的，从github下载代码包，里面模块区分的很好，读src/ng/compile.js，用调试器跟踪走几遍，里面会说明directive是如何被识别的，还有双向绑定。读了compile.js就对angular框架有了一个整体了解了。然后看看src/ng/rootScope.js看看scope是怎么回事里面尤其是digest函数如何深度优先遍历scope,并触发watchers。还有isolate scope.是怎么回事。之后可以进入src/auto/injector.js查看依赖注入是如何实现的。最后查看src/Angularjs，从boostrap开始看，怎么初始化整个程序。如果想了解route可以查看src/ngRoute/route.js。还有一些自带的directive在src/ng/directive下，比如ngrepeat,ngif都是很常用的，可以了解一下。
 [ Angular 项目本身是如何管理代码的？修改 ](http://www.zhihu.com/question/23828646)  
 [ johnpapa/angularjs-styleguide ](https://github.com/johnpapa/angularjs-styleguide#iife)  
 [ http://ngnice.com/ ](http://ngnice.com/)  
@@ -20,6 +18,8 @@ angular
 [ The problem with Angular ](http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html)  
 [ MVVM时代的Web控件 ——基于AngularJS实现 #2 ](https://github.com/xufei/ng-control/issues/2)  
 [ 基于AngularJS的企业软件前端架构 ](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)  
+[ http://www.zhihu.com/question/23596013 ](http://www.zhihu.com/question/23596013)  
+研究前先读一下angular官网的文档，对照代码读。首先了解compile，如何将template编译的，从github下载代码包，里面模块区分的很好，读src/ng/compile.js，用调试器跟踪走几遍，里面会说明directive是如何被识别的，还有双向绑定。读了compile.js就对angular框架有了一个整体了解了。然后看看src/ng/rootScope.js看看scope是怎么回事里面尤其是digest函数如何深度优先遍历scope,并触发watchers。还有isolate scope.是怎么回事。之后可以进入src/auto/injector.js查看依赖注入是如何实现的。最后查看src/Angularjs，从boostrap开始看，怎么初始化整个程序。如果想了解route可以查看src/ngRoute/route.js。还有一些自带的directive在src/ng/directive下，比如ngrepeat,ngif都是很常用的，可以了解一下。
 
 
 angular vs react js
