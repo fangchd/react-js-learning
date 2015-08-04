@@ -1,3 +1,4 @@
+# more
 [ REACT TIPS AND BEST PRACTICES ](http://aeflash.com/2015-02/react-tips-and-best-practices.html)  
 [ Best practices for building large React applications ](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications)  
 [ Functional UI and Components as Higher Order Functions ](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)  
@@ -39,4 +40,26 @@
 [  ]()  
 [  ]()  
 [  ]()  
+
+
+[ http://ant.design/ ](http://ant.design/  )  
+[ https://github.com/ant-design/ant-design ](https://github.com/ant-design/ant-design  )  
+[ https://github.com/react-component ](https://github.com/react-component  )  
+[ https://github.com/react-component/util ](https://github.com/react-component/util  )  
+[ https://github.com/react-bootstrap/react-bootstrap ](https://github.com/react-bootstrap/react-bootstrap  )  
+[ https://github.com/Khan/react-components ](https://github.com/Khan/react-components  )  
+
+
+[ material ui ](http://material-ui.com/#/components/tabs)  
+[ Complementary Tools ](https://github.com/facebook/react/wiki/Complementary-Tools)  
+[ React Components reusable components by Khan Academy ](http://khan.github.io/react-components/)  
+[ react-components ](http://react.rocks/example/react-components)  
+
+[ learning-react ](https://github.com/yiminghe/learning-react  )  
+[ react 入门 ](http://yiminghe.me/learning-react/tutorial/zh-cn/intro.html)  
+
+[ React Object Model ](http://blog.yiminghe.me/2015/04/14/react-object-model/)  
+
+
+
 
