@@ -177,3 +177,8 @@ I found the answer to my own question. I actually needed to downgrade Zombie 4.0
 Edit1: I decided to upgrade my Node version to 0.12 and my Zombie version back up to 4.0.7 and that worked too. (seems like Node 0.10 and Zombie 4.0.7 not compatible...)
 Edit2: For anyone reading the book, I suggest looking at the github repo by the author himself. Take a look at the package.json file to see which version of the modules he uses.
 
+coverage
+==========================================================================================
+[ zordius/gulp-jsx-coverage ](https://github.com/zordius/gulp-jsx-coverage)  
+
+[  ]()  
