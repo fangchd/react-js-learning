@@ -76,7 +76,7 @@ Starter Gulp + Browserify project with examples of how to accomplish some common
 #### gulp watch
 [gulp.watch, mocha and gulp-batch #80](https://github.com/gulpjs/gulp/issues/80)  
 [Issue with gulp watch on files modified through ftp: how to delay task?](https://discourse.roots.io/t/issue-with-gulp-watch-on-files-modified-through-ftp-how-to-delay-task/3479)  
-[Gulp watch with sane](https://www.npmjs.com/package/gulp-sane-watch)gulp-sane-watch gulp-batch  
+[Gulp watch with sane](https://www.npmjs.com/package/gulp-sane-watch)  gulp-sane-watch gulp-batch  
 [floatdrop/gulp-watch](https://github.com/floatdrop/gulp-watch/blob/master/docs/readme.md)  
 [Gulp.js, watch task runs twice when saving files](http://stackoverflow.com/questions/21608480/gulp-js-watch-task-runs-twice-when-saving-files)  
 [https://lodash.com/docs#debounce](https://lodash.com/docs#debounce)  
