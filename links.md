@@ -19,7 +19,7 @@ angular
 [ MVVM时代的Web控件 ——基于AngularJS实现 #2 ](https://github.com/xufei/ng-control/issues/2)  
 [ 基于AngularJS的企业软件前端架构 ](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)  
 [ http://www.zhihu.com/question/23596013 ](http://www.zhihu.com/question/23596013)  
-研究前先读一下angular官网的文档，对照代码读。首先了解compile，如何将template编译的，从github下载代码包，里面模块区分的很好，读src/ng/compile.js，用调试器跟踪走几遍，里面会说明directive是如何被识别的，还有双向绑定。读了compile.js就对angular框架有了一个整体了解了。然后看看src/ng/rootScope.js看看scope是怎么回事里面尤其是digest函数如何深度优先遍历scope,并触发watchers。还有isolate scope.是怎么回事。之后可以进入src/auto/injector.js查看依赖注入是如何实现的。最后查看src/Angularjs，从boostrap开始看，怎么初始化整个程序。如果想了解route可以查看src/ngRoute/route.js。还有一些自带的directive在src/ng/directive下，比如ngrepeat,ngif都是很常用的，可以了解一下。
+
 
 
 angular vs react js
@@ -79,3 +79,6 @@ IIFE
 2. 从架构层面把各种问题摆平，切分任务为小块，每个人只写特定小块代码
 3. 在前端作分层，确保每一层代码的稳定
 4. 跟真正懂前端的人一起把HTML、样式、控件好好规划
+
+
+研究前先读一下angular官网的文档，对照代码读。首先了解compile，如何将template编译的，从github下载代码包，里面模块区分的很好，读src/ng/compile.js，用调试器跟踪走几遍，里面会说明directive是如何被识别的，还有双向绑定。读了compile.js就对angular框架有了一个整体了解了。然后看看src/ng/rootScope.js看看scope是怎么回事里面尤其是digest函数如何深度优先遍历scope,并触发watchers。还有isolate scope.是怎么回事。之后可以进入src/auto/injector.js查看依赖注入是如何实现的。最后查看src/Angularjs，从boostrap开始看，怎么初始化整个程序。如果想了解route可以查看src/ngRoute/route.js。还有一些自带的directive在src/ng/directive下，比如ngrepeat,ngif都是很常用的，可以了解一下。
