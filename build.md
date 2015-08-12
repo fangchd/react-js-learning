@@ -32,12 +32,15 @@
 [ A JavaScript Build System Shootout: Grunt vs. Gulp vs. NPM ](http://modernweb.com/2014/08/04/choose-grunt-gulp-npm)  
 [ 前端工程的构建工具对比 Gulp vs Grunt ](http://segmentfault.com/a/1190000002491282)  
 [ Browserify vs. Webpack ]( http://mattdesl.svbtle.com/browserify-vs-webpack )  
+[ Gulp， 比Grunt更好用的前端构建工具 ](http://blog.jobbole.com/81007/)  
+[ Gulp相对于Grunt的优势 ](http://blog.jobbole.com/81007/)  
 [  ]()  
 
 ### gulp
 #### intro
 [ Gulp —— 另一种自动化流水线 ](http://zhuanlan.zhihu.com/TLA42/19691575)  
 [ gulp入门指南 ](http://www.open-open.com/lib/view/open1417068223049.html)  
+[ gulp入門指南 ](http://blog.jobbole.com/80338/)!!!  
 [ Gulp使用指南 ](http://www.techug.com/gulp)  
 [ Setting Up A Client-Side JavaScript Project With Gulp And Browserify ](https://blog.engineyard.com/2015/client-side-javascript-project-gulp-and-browserify)  
 [ Gulp思维——Gulp高级技巧 ](http://segmentfault.com/a/1190000000711469)  
@@ -99,11 +102,11 @@ Starter Gulp + Browserify project with examples of how to accomplish some common
 [ grunt-contrib-jshint v0.10.3 Build Status: Linux ](https://github.com/jut-io/grunt-contrib-jshint-jsx)  
 [ DjebbZ / jshint-jsx-with-gulp-react-tools ](https://gist.github.com/DjebbZ/ee6c50c7a155c5fd6cd4)  
 [ nicolashery / gulpfile-react-jshint.js ](https://gist.github.com/nicolashery/8e6baed6d3fd6bcde8d5) !!!  
-https://raw.githubusercontent.com/jscs-dev/node-jscs/master/presets/google.json  
-http://jscs.info/overview.html#options  
-https://github.com/TheSavior/SublimeJSCSFormatter  
-https://github.com/jscs-dev/node-jscs/  
-https://github.com/jscs-dev/gulp-jscs  
+[ https://raw.githubusercontent.com/jscs-dev/node-jscs/master/presets/google.json     ](https://raw.githubusercontent.com/jscs-dev/node-jscs/master/presets/google.json  ) 
+[ http://jscs.info/overview.html#options   ](http://jscs.info/overview.html#options  )  
+[ https://github.com/TheSavior/SublimeJSCSFormatter   ](https://github.com/TheSavior/SublimeJSCSFormatter  )  
+[ https://github.com/jscs-dev/node-jscs/ ](https://github.com/jscs-dev/node-jscs/)  
+[ https://github.com/jscs-dev/gulp-jscs   ](https://github.com/jscs-dev/gulp-jscs  )  
 [ Auto-formatting JavaScript Code Style ](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)  
 
 ### webpack  
@@ -120,3 +123,7 @@ https://github.com/jscs-dev/gulp-jscs
 [ How to run two grunt watch tasks simultaneously ](http://stackoverflow.com/questions/17585385/how-to-run-two-grunt-watch-tasks-simultaneously)  grunt-concurrent grunt-focus  
 [ How to configure sourceMaps for LESS using Grunt? ](http://stackoverflow.com/questions/21743160/how-to-configure-sourcemaps-for-less-using-grunt)  
 [ 随笔分类 - grunt构建工具详解 ](http://www.cnblogs.com/chaojidan/category/652416.html)  
+[ 自动化任务运行器 Grunt 迅速上手 ](http://blog.jobbole.com/51586/)  
+[  ]()  
+[  ]()  
+[  ]()  
