@@ -14,12 +14,15 @@
 [ Absolute path in SourceMap #663 ](https://github.com/substack/node-browserify/issues/663)  
 [ Browserify source map only makes the root file accesible (caused by absolute path names) ](http://stackoverflow.com/questions/25303585/browserify-source-map-only-makes-the-root-file-accesible-caused-by-absolute-pat)  
 [ http://io.pellucid.com/blog/tips-and-tricks-for-faster-front-end-builds ](http://io.pellucid.com/blog/tips-and-tricks-for-faster-front-end-builds)  
+
 ### react
 [ How to keep a fast build with Browserify and ReactJS ](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/) !!!!!  
 [ Choosing the correct packaging tool for React JS ](http://christianalfoni.github.io/javascript/2014/08/29/choosing-the-correct-packaging-tool-for-react-js.html) !!!!  
 [ React JS and a browserify workflow, PART 2 ](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html) !!!!  
 [ React.js Tutorial Pt 2: Building React Applications with Gulp and Browserify. ](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/ )  
 [ Writing apps with React.js: Build using gulp.js and Browserify ](http://g00glen00b.be/reactjs-gulp-browserify/)  
+[ 轻松搭建 ECMAScript 6 开发环境 [For React] ]( http://segmentfault.com/a/1190000003042641 )  
+
 ### comparison
 [ Grunt Gulp 战斗法师 ](http://zhuanlan.zhihu.com/TLA42/19711450)  
 [ JavaScript构建（编绎）系统大比拼：Grunt vs. Gulp vs. NPM ](http://blog.jobbole.com/75874/)  
@@ -28,7 +31,9 @@
 [ Javascript构建工具：Grunt、Gulp、NPM ](http://ijiaober.github.io/2014/08/16/Grunt-vs-Gulp-vs-NPM/)  
 [ A JavaScript Build System Shootout: Grunt vs. Gulp vs. NPM ](http://modernweb.com/2014/08/04/choose-grunt-gulp-npm)  
 [ 前端工程的构建工具对比 Gulp vs Grunt ](http://segmentfault.com/a/1190000002491282)  
+[ Browserify vs. Webpack ]( http://mattdesl.svbtle.com/browserify-vs-webpack )  
 [  ]()  
+
 ### gulp
 #### intro
 [ Gulp —— 另一种自动化流水线 ](http://zhuanlan.zhihu.com/TLA42/19691575)  
@@ -38,6 +43,7 @@
 [ Gulp思维——Gulp高级技巧 ](http://segmentfault.com/a/1190000000711469)  
 [ 5 Lessons Learned Using gulp.js ](http://denbuzze.com/post/5-lessons-learned-using-gulpjs/)  
 [ http://denbuzze.com/post/5-lessons-learned-using-gulpjs/ ](http://denbuzze.com/post/5-lessons-learned-using-gulpjs/)  
+[ 是时候把你的 Gulp 升级到 4.0 了 ]( http://web.jobbole.com/82992/ )  
 #### example
 [ react-news/blob/master/gulpfile.js ](https://github.com/echenley/react-news/blob/master/gulpfile.js) !!!  
 [ gulp-recipes ](https://github.com/sogko/gulp-recipes) !!!  
@@ -99,6 +105,12 @@ https://github.com/TheSavior/SublimeJSCSFormatter
 https://github.com/jscs-dev/node-jscs/  
 https://github.com/jscs-dev/gulp-jscs  
 [ Auto-formatting JavaScript Code Style ](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)  
+
+### webpack  
+[ Webpack 入门指迷 ]( http://segmentfault.com/a/1190000002551952 )  
+[ 深入浅出React（二）：React开发神器Webpack ]( http://www.infoq.com/cn/articles/react-and-webpack?utm_source=tuicool )  
+[ Webpack 和 React 小书 ]( http://segmentfault.com/a/1190000002985564 )  
+
 ### grunt
 [ GULP-STYLE STREAM PIPING IN GRUNT, OR ANYWHERE ELSE ](http://blog.evanyou.me/2013/12/29/gulp-piping/)  
 [ 【grunt第一弹】30分钟学会使用grunt打包前端代码 ](http://www.cnblogs.com/yexiaochai/p/3594561.html)  
