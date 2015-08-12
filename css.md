@@ -6,7 +6,7 @@
 [如何科学的组织React组件样式](http://segmentfault.com/a/1190000003032506)  
 [React中对于css的使用](http://react-china.org/t/react-css/1844)  
 [## CSS 的黑科技](http://segmentfault.com/a/1190000003023537)  
-[编写更好的CSS代码](http://web.jobbole.com/55067/)  
+[编写更好的CSS代码](http://web.jobbole.com/55067/)!!!  
 
 
 [最牛逼的 HTML 和 CSS 代码的背后 #105](https://github.com/lifesinger/lifesinger.github.com/issues/105)  
