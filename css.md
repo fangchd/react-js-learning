@@ -12,7 +12,7 @@
 [最牛逼的 HTML 和 CSS 代码的背后 #105](https://github.com/lifesinger/lifesinger.github.com/issues/105)  
 [编码规范 by @mdo](http://zoomzhao.github.io/code-guide/#css-nesting)  
 [没人告诉你关于z-index的一些事](http://web.jobbole.com/82884/)  
-[]()  
+[React: CSS in JS by vjeux](https://speakerdeck.com/vjeux/react-css-in-js)!!!!  
 []()  
 []()  
 []()  
